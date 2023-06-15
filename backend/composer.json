@@ -1,0 +1,18 @@
+{
+    "name": "daria.pavlova/backend",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DariaPavlova\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daria Pavlova",
+            "email": "daria.pavlova@rakuten.com"
+        }
+    ]
+}
